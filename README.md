@@ -1,0 +1,2 @@
+# javaDic
+Simple dictionary
